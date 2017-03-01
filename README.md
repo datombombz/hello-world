@@ -1,5 +1,5 @@
 # hello-world
 
-Test
+Hello fellow man
 
-Lorem Ipsum
+This is gonna just be the basic stuff to complete the tutorial... so, yeah lol.
